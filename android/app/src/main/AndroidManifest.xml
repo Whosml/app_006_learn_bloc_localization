@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="app_006_learn_bloc_localization"
+        android:label="L006 bloc localization"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
